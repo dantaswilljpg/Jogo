@@ -1,4 +1,4 @@
-Este projeto é um jogo feito com fins para me desenvolver tecnicamente, para capacitar minha lógica em javascript
+## Este projeto é um jogo feito com fins para me desenvolver tecnicamente, para capacitar minha lógica em javascript
 
 Projeto construindo para fins de desenvolvimento
 
