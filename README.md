@@ -15,13 +15,15 @@ Desenvolver habilidades técnicas, especialmente em lógica de programação, fr
 ## Estrutura do Projeto 🏗️
 O jogo foi desenvolvido totalmente em HTML, CSS e JavaScript puro
 
-plaintext
-Copy code
 |-- index.html
+
 |-- style.css
+
 |-- js
 
 
 📌 Em progresso.
+
 🔗 Sem link disponível no momento.
+
 Este projeto representa uma jornada contínua de aprendizado, visando melhorar habilidades técnicas em diversas áreas do desenvolvimento web.
